@@ -1,0 +1,14 @@
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\bin\Debug\net9.0-windows\Baitap5thang9.exe
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\bin\Debug\net9.0-windows\Baitap5thang9.deps.json
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\bin\Debug\net9.0-windows\Baitap5thang9.runtimeconfig.json
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\bin\Debug\net9.0-windows\Baitap5thang9.dll
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\bin\Debug\net9.0-windows\Baitap5thang9.pdb
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.AssemblyInfoInputs.cache
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.AssemblyInfo.cs
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.csproj.CoreCompileInputs.cache
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.dll
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\refint\Baitap5thang9.dll
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.pdb
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\Baitap5thang9.genruntimeconfig.cache
+D:\Subject\LapTrinhTrucQuan\Buoi3\Baitap\Baitap5thang9\Baitap5thang9\obj\Debug\net9.0-windows\ref\Baitap5thang9.dll
