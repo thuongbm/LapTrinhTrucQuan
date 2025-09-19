@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoPhuc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3858c870841e20befa8e423b8f5cce62b1439f92")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoPhuc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoPhuc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
