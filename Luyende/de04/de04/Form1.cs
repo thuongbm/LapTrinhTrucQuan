@@ -37,6 +37,8 @@ namespace de04
             // Gán sự kiện SelectionChanged
             dgNhanVien.SelectionChanged += dgNhanVien_SelectionChanged;
 
+            btnSua.Enabled = btnXoa.Enabled = false;
+
         }
 
         private void dgNhanVien_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -190,7 +192,17 @@ namespace de04
 
                 btnSua.Enabled = true;
                 btnXoa.Enabled = true;
+
+                btnThem.Enabled = false;
             }
+        }
+
+        void Form1_Click(object sender, EventArgs e)
+        {
+            btnSua.Enabled = false;
+            btnXoa.Enabled = false;
+            btnThem.Enabled = true;
+            dgNhanVien.ClearSelection();
         }
 
         private void ClearFields()
